@@ -1,0 +1,7 @@
+print(5+6)
+print(15-6)
+print(5*6)
+print(36/6)
+print(6//6)
+print(13%6)
+print(5**3)
